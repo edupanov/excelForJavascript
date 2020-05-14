@@ -1,0 +1,24 @@
+{
+  "name": "excelonjavascript",
+  "version": "1.0.0",
+  "description": "excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edupanov/excellForJavascript.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "npm"
+  ],
+  "author": "Egor Dupanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edupanov/excellForJavascript/issues"
+  },
+  "homepage": "https://github.com/edupanov/excellForJavascript#readme"
+}
